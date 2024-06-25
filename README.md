@@ -1,6 +1,7 @@
 <h1 align="center"> Calculadora de Juros Composto </h1>
 
-<p> Calculadora feita para testar e validar conhecimentos adquiridos após estudo.<br/>
+<p> Calculadora feita para testar e validar conhecimentos adquiridos após estudo em Javascript.<br/>
+Clique aqui para visualizar o projeto: https://bit.ly/3zdoAb8
 
 ## 🚀 Tecnologias
 
